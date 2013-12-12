@@ -6,3 +6,4 @@ Consultora JALJO CONSULTING
 - Framework
 - Plugins
 - Archivos CSS
+- Archivos JS
